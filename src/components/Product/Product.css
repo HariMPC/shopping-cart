@@ -1,0 +1,10 @@
+.pln-container{
+    margin: 2px;
+}
+
+.pln-list{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+    padding: 2em;
+}
